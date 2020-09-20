@@ -2,6 +2,7 @@
 # Operating Specific Junk Files
 #-------------------------
 adminlte
+ion_auth
 # OS X
 .DS_Store
 .AppleDouble
